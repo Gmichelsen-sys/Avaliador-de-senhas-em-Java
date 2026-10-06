@@ -1,0 +1,1 @@
+# Avaliador-de-senhas-em-Java
