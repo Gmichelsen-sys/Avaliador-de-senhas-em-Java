@@ -1,4 +1,4 @@
-//Atividade aula 08 - ATIVIDADE AVALIAR DE SENHAS EM JAVA
+//Atividade aula 08 - ATIVIDADE AVALIADOR DE SENHAS EM JAVA
     // Turma: ADS1AN-ESA1-90834648
     // Curso: Análise e desenvolvimento de sistemas
     // Professor: Alexandre de Oliveira 
