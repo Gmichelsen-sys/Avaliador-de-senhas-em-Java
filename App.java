@@ -1,3 +1,11 @@
+//Atividade aula 08 - ATIVIDADE AVALIAR DE SENHAS EM JAVA
+    // Turma: ADS1AN-ESA1-90834648
+    // Curso: Análise e desenvolvimento de sistemas
+    // Professor: Alexandre de Oliveira 
+    // Aluno: Guilherme Michelsen Silva de Oliveira 
+    // Data: 08/10/2026
+
+
 import java.util.Scanner;
 
 public class App {
